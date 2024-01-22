@@ -4,6 +4,7 @@ Veri Bilimi ve Makine Öğrenimi eğitimi final projesi
 
 - Source: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
           https://www.kaggle.com/datasets/saigeethac/red-and-white-wine-quality-datasets?select=winequality-white.csv
+- Ek Bilgi: data processing kısmında yani "analysis2.ipynb" dosyasında değişkenler üzerinde dönüşüm denemeleri yaptığım, normalizasyon grafiklerini incelediğim ve uygun olup olmadığını karar verdiğim dosya methods.ipynb'dir.
 
 ### Project Description
 
@@ -21,7 +22,7 @@ Veri Bilimi ve Makine Öğrenimi eğitimi final projesi
 	 - Examine the relationship between the target variable quality and other variables.
 	 - Examine the relationship of all variables with each other with the heat map.
 	 - Visualize the relationship between the variables that we think are most related to each other with regression graphs.
-	 - Examine the density charts.
+	 - Let's examine the density charts and box plots according to the scores given to the wines. Check it out.
 
 
 3. Data Preprocessing:
