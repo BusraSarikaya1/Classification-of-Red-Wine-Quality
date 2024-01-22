@@ -3,7 +3,7 @@
 Veri Bilimi ve Makine Öğrenimi eğitimi final projesi
 
 - Source: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
-          https://www.kaggle.com/datasets/saigeethac/red-and-white-wine-quality-datasets?select=winequality-white.csv
+          
 - Ek Bilgi: data processing kısmında yani "analysis2.ipynb" dosyasında değişkenler üzerinde dönüşüm denemeleri yaptığım, normalizasyon grafiklerini incelediğim ve uygun olup olmadığını karar verdiğim dosya methods.ipynb'dir.
 
 ### Project Description
