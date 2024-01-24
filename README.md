@@ -4,7 +4,7 @@ Veri Bilimi ve Makine Öğrenimi eğitimi final projesi
 
 - Source: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
           
-- Ek Bilgi: data processing kısmında yani "analysis2.ipynb" dosyasında değişkenler üzerinde dönüşüm denemeleri yaptığım, normalizasyon grafiklerini incelediğim ve uygun olup olmadığını karar verdiğim dosya methods.ipynb'dir.
+- Additional Information: In the data processing section, that is, in the "2_analysis.ipynb" file, the file in which I experimented with the transformations on the variables, examined the normalization graphs and decided whether it was suitable or not is "trials.ipynb" and "chlorides.ipynb".
 
 ### Project Description
 
