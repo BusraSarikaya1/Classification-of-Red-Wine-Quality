@@ -9,7 +9,7 @@ Veri Bilimi ve Makine Öğrenimi eğitimi final projesi
 ### Project Description
 
 ### Steps Involved
-1. Dataset Examination and Exploratory Data Analysis (C:\Final_project\Final_project\analysis_file\1_analysis.ipynb)
+1. Dataset Examination and Exploratory Data Analysis (https://github.com/BusraSarikaya1/Final_project/blob/main/analysis_file/1_analysis.ipynb)
 	 - Get the dataset from the source and read it.
      - View the first few rows of the dataset.
      - Analyze the shape of the dataset (number of rows and columns).
@@ -22,7 +22,7 @@ Veri Bilimi ve Makine Öğrenimi eğitimi final projesi
 	 - Let's examine the density charts and box plots according to the scores given to the wines. Check it out.
 
 
-2. Data Preprocessing and Data Preparation:(C:\Final_project\Final_project\analysis_file\2_analysis.ipynb)
+2. Data Preprocessing and Data Preparation:(https://github.com/BusraSarikaya1/Final_project/blob/main/analysis_file/2_analysis.ipynb)
      - The scored quality target variable was classified as our quality and quality and was recorded in the master data.
 	 - Bar and pie chart visualization presented.
 	 - Box plot images were examined for outlier analysis.
@@ -34,7 +34,7 @@ Veri Bilimi ve Makine Öğrenimi eğitimi final projesi
 	 - Clean data was created.
 
 
-5. Model Training and Evaluation: (C:\Final_project\Final_project\analysis_file\3_analysisd.ipynb)
+5. Model Training and Evaluation:(https://github.com/BusraSarikaya1/Final_project/blob/main/analysis_file/3_analysisd.ipynb)
      - The dependent (target) variable and independent variables were determined.
 	 - Data in the independent variables were normalized.
 	 - The data were divided into training and test sets.
