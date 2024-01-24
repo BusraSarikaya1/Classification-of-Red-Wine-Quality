@@ -29,7 +29,7 @@ Veri Bilimi ve Makine Öğrenimi eğitimi final projesi
 	 - Univariate outlier analysis was performed.
 	 - Independent variables that did not appear to be outliers were examined with the help of the Grubbs Test.
 	 - Outlier analysis for both Categorical and numerical variables.
-	 - Whether or not the quarterly gap method should be applied for all variables was checked one by one. The density graphs were checked before and after application.(https://github.com/BusraSarikaya1/Final_project/blob/main/trials.ipynb)
+	 - Whether or not the quarterly gap method should be applied for all variables was checked one by one. The density graphs were checked before and after application.(https://github.com/BusraSarikaya1/Final_project/blob/main/trials.ipynb) and https://github.com/BusraSarikaya1/Final_project/blob/main/chlorides.ipynb for chlorides feature.
 	 - Duplicating values were removed from the data.
 	 - Clean data was created.
 
