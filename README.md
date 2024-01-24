@@ -1,6 +1,6 @@
 # Final_project
 
-Veri Bilimi ve Makine Öğrenimi eğitimi final projesi
+Data Science and Machine Learning training final project
 
 - Source: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
           
