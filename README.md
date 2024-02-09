@@ -54,7 +54,9 @@ Project Results
 Among all the features, the interquartile range method was only applied to chlorides because it made the shape of the graph suitable for normalization.
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+
 We can see this improvement by examining the box plot method.
+
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 - Outliers in the "chlorides" column are detected using Tukey's Method and adjusted to the upper limit (upper_cap). In other words, observations with values greater than the upper limit, which are considered outliers, are replaced by pulling them to this limit.
