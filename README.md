@@ -64,7 +64,7 @@ We can see this improvement by examining the box plot method.
 ![alt text](image.png)
 
 Suggestions
-To improve wine quality, optimal values of certain components (for example, alcohol content) can be targeted or production processes can be improved.
+- To improve wine quality, optimal values of certain components (for example, alcohol content) can be targeted or production processes can be improved.
 
 
 
