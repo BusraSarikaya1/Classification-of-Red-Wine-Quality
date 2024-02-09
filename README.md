@@ -56,6 +56,8 @@ Among all the features, the interquartile range method was only applied to chlor
 ![alt text](image-2.png)
 We can see this improvement by examining the box plot method.
 ![alt text](image-3.png)
+![alt text](image-4.png)
+- Outliers in the "chlorides" column are detected using Tukey's Method and adjusted to the upper limit (upper_cap). In other words, observations with values greater than the upper limit, which are considered outliers, are replaced by pulling them to this limit.
 
 2) Machine Learning Model Performance: Among the applied machine learning algorithms, the Support Vector Classifier algorithm showed the best performance. These models achieved an accuracy rate of 78% and above on the test data set. Additionally, as a result of a comprehensive evaluation of the model performance, it was determined that the model successfully classified wine quality in general.
 - The most successful model turned out to be the Support Vector Classifier.
