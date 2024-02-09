@@ -1,12 +1,14 @@
-# Final_project
+# Classification of Red Wine Quality
 
-Data Science and Machine Learning training final project
+This project aims to apply data analysis, data visualization and machine learning algorithms to determine the quality of red wines. The main goals of our project are:
 
 - Source: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
           
 - Additional Information: In the data processing section, that is, in the "2_analysis.ipynb" file, the file in which I experimented with the transformations on the variables, examined the normalization graphs and decided whether it was suitable or not is "trials.ipynb" and "chlorides.ipynb".
 
 ### Project Description
+
+- The quality of red wine was rated by a group of observers (3-8). Our data is real dataset and I got it from Kaggle. In our data set, the amount of chemical variables in the wine is available and each wine is scored according to its taste.
 
 ### Steps Involved
 1. Dataset Examination and Exploratory Data Analysis (https://github.com/BusraSarikaya1/Final_project/blob/main/analysis_file/1_analysis.ipynb)
@@ -34,12 +36,24 @@ Data Science and Machine Learning training final project
 	 - Clean data was created.
 
 
-5. Model Training and Evaluation:(https://github.com/BusraSarikaya1/Final_project/blob/main/analysis_file/3_analysisd.ipynb)
+3. Model Training and Evaluation:(https://github.com/BusraSarikaya1/Final_project/blob/main/analysis_file/3_analysisd.ipynb)
      - The dependent (target) variable and independent variables were determined.
 	 - Data in the independent variables were normalized.
 	 - The data were divided into training and test sets.
 	 - The model was created using these algorithms: Logistic Regression, Support Vector Classifier, Random Forest, Decision Trees.
 	 - The evaluation metrics of the model were examined.
+
+Project Results
+
+- As a result of the analyzes carried out within the scope of the project and the machine learning algorithms applied, the following main results were obtained:
+
+1) Data Analysis and Visualization: Analyzes on the dataset helped us identify important factors affecting wine quality. In particular, alcohol content, acidity level and pH value were found to have a significant impact on wine quality.
+
+2) Machine Learning Model Performance: Among the applied machine learning algorithms, the Support Vector Classifier algorithm showed the best performance. These models achieved an accuracy rate of 78% and above on the test data set. Additionally, as a result of a comprehensive evaluation of the model performance, it was determined that the model successfully classified wine quality in general.
+- The most successful model turned out to be the Support Vector Classifier.
+- When looking at the confusion matrix, the model correctly predicted 100 out of 124 low-quality wines and 113 out of 148 high-quality wines from the actual data. The accuracy value is also higher than the other models.
+
+![alt text](image.png)
 
 
 
