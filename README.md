@@ -1,6 +1,6 @@
 # Classification of Red Wine Quality
 
-This project aims to apply data analysis, data visualization and machine learning algorithms to determine the quality of red wines. The main goals of our project are:
+This project aims to apply data analysis, data visualization and machine learning algorithms to determine the quality of red wines. 
 
 - Source: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
 
